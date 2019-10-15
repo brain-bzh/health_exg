@@ -5,3 +5,4 @@
 *.nav
 *.out
 *.ipynb_*
+*.npz
