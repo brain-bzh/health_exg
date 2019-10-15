@@ -6,3 +6,4 @@ tqdm
 numpy
 scipy
 matplotlib
+jupyter
