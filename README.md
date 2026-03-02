@@ -9,7 +9,7 @@ Contents:
 
 Projet Exploration de l’activité cérébrale (IRMf / EEG) 
 --
-Google Doc with instructions and list of the project
+Google Doc with instructions and projects list
 📝 https://docs.google.com/document/d/1P4zjQvWLArmB2xZGjzhero-CcGoBNfLzHPuSlBhE118/edit?usp=sharing
 
 
