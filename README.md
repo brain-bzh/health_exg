@@ -5,6 +5,12 @@ Contents:
 -Course slides
 -Lab Session
 -References
+-Resources for Final Project
+
+Google Doc - Projet - Exploration de l’activité cérébrale (IRMf / EEG) 
+📝 https://docs.google.com/document/d/1P4zjQvWLArmB2xZGjzhero-CcGoBNfLzHPuSlBhE118/edit?usp=sharing
+
+
 
 
 References 
